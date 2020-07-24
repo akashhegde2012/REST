@@ -1,0 +1,12 @@
+i.icon {
+    font-size: 2em;
+}
+.container.main{
+    margin-top: 7em;
+}
+body{
+    background-image: url(https://streatorunlimited.org/wp-content/uploads/2018/03/Amazing-Background-Images-For-Websites-.jpg);
+}
+#delete{
+    display: inline;
+}
